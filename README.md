@@ -1,0 +1,2 @@
+# schoolwiki
+Schools directory
